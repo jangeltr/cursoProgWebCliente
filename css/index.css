@@ -99,7 +99,6 @@ article{
 .datos__table{
     width: 100%;
     position: relative;
-
 }
 .datos table{
     border: 3px solid;
@@ -115,6 +114,7 @@ footer{
     width: 900px;
     height: 110px;
     margin: auto;
+    color: var(--colorSecundario);
 }
 .footer__img{
     float: left;
@@ -128,13 +128,7 @@ footer{
     margin-top: 25px;
     margin-left: 25px;
 }
-.footer__datos h3{
-    color: var(--colorSecundario);
-}
 .footer__ITT{
     float: right;
     margin-top: 25px;
-}
-.footer__ITT h3{
-    color: var(--colorSecundario);
 }
